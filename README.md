@@ -1,2 +1,2 @@
-# jabarijumps
-The code for my game
+# Jabari Jumps: The Game
+The code for my game.
